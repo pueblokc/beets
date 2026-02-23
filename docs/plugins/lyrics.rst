@@ -25,9 +25,11 @@ Fetch Lyrics During Import
 --------------------------
 
 When importing new files, beets will now fetch lyrics for files that don't
-already have them. The lyrics will be stored in the beets database. If the
-``import.write`` config option is on, then the lyrics will also be written to
-the files' tags.
+already have them. The lyrics will be stored in the beets database. The backend
+name that provided the lyrics is stored in the ``lyrics_source`` flexible field.
+
+If the ``import.write`` config option is on, then the lyrics will also be
+written to the files' tags.
 
 Configuration
 -------------
