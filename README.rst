@@ -144,3 +144,10 @@ Authors
 Beets is by `Adrian Sampson`_ with a supporting cast of thousands.
 
 .. _adrian sampson: https://www.cs.cornell.edu/~asampson/
+
+Fork Maintainer
+===============
+
+This fork is maintained by `KCCS <https://kccsonline.com>`_ with custom web UI enhancements and monitoring integrations.
+
+`kccsonline.com <https://kccsonline.com>`_
