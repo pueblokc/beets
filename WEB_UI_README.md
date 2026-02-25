@@ -142,3 +142,7 @@ The built-in `beet web` plugin is read-only, built on Bottle, and hasn't seen si
 ## License
 
 Same as beets: [MIT License](LICENSE)
+
+---
+
+Developed by **[KCCS](https://kccsonline.com)** — [kccsonline.com](https://kccsonline.com)
